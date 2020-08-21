@@ -1,0 +1,7 @@
+com\goldsclub\dao\ClubMemberDao.class
+com\goldsclub\configuration\HibernateConfiguration.class
+com\goldsclub\domain\ClubMember.class
+com\goldsclub\controller\RegistrationController.class
+com\goldsclub\maven\quickstart\App.class
+com\goldsclub\dao\impl\ClubMemberDaoImpl.class
+com\goldsclub\controller\LoginController.class
